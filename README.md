@@ -27,7 +27,7 @@ Follow the steps below to get the Sorting Visualizer project up and running:
 1. **Clone the Repository**: Clone this GitHub repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/Venkateeshh/Sorting-Visualizer.git
+   git clone [https://github.com/friendly-w0lf/Sorting-Visualizer]
    ```
 
 2. **Open the Project**: Use an Integrated Development Environment (IDE) that supports Java to open the project.
